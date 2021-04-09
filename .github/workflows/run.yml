@@ -21,12 +21,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@v1.1
-        with:
-          # if you also want to send TELE
-          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
-          STARED_NUMBER: ${{ env.STARED_NUMBER }}
-
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
