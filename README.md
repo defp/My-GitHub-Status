@@ -10,19 +10,19 @@
 |  3 | [geektime_print](https://github.com/defp/geektime_print)                           | 2019-03-18 | 2020-09-27 | JavaScript |     7 |
 |  4 | [colors](https://github.com/defp/colors)                                           | 2014-07-02 | 2017-11-06 | Elixir     |     7 |
 |  5 | [goji-gzip](https://github.com/defp/goji-gzip)                                     | 2014-07-03 | 2020-10-14 | Go         |     6 |
-|  6 | [zabbix-slack.go](https://github.com/defp/zabbix-slack.go)                         | 2014-09-30 | 2018-12-11 | Go         |     5 |
-|  7 | [ssdb-elixir](https://github.com/defp/ssdb-elixir)                                 | 2014-06-25 | 2020-08-03 | Elixir     |     5 |
+|  6 | [ssdb-elixir](https://github.com/defp/ssdb-elixir)                                 | 2014-06-25 | 2020-08-03 | Elixir     |     5 |
+|  7 | [zabbix-slack.go](https://github.com/defp/zabbix-slack.go)                         | 2014-09-30 | 2018-12-11 | Go         |     5 |
 |  8 | [is_chinese](https://github.com/defp/is_chinese)                                   | 2016-03-01 | 2020-03-05 | Elixir     |     4 |
-|  9 | [github_oauth](https://github.com/defp/github_oauth)                               | 2015-04-07 | 2018-04-12 | Elixir     |     4 |
-| 10 | [goji-examples](https://github.com/defp/goji-examples)                             | 2014-07-03 | 2020-10-14 | Go         |     3 |
-| 11 | [cowboy-elixir-examples](https://github.com/defp/cowboy-elixir-examples)           | 2014-11-23 | 2015-04-10 | Elixir     |     3 |
-| 12 | [telegram-login-go](https://github.com/defp/telegram-login-go)                     | 2018-02-09 | 2021-04-19 | Go         |     3 |
+|  9 | [telegram-login-go](https://github.com/defp/telegram-login-go)                     | 2018-02-09 | 2021-08-08 | Go         |     4 |
+| 10 | [github_oauth](https://github.com/defp/github_oauth)                               | 2015-04-07 | 2018-04-12 | Elixir     |     4 |
+| 11 | [goji-examples](https://github.com/defp/goji-examples)                             | 2014-07-03 | 2020-10-14 | Go         |     3 |
+| 12 | [cowboy-elixir-examples](https://github.com/defp/cowboy-elixir-examples)           | 2014-11-23 | 2015-04-10 | Elixir     |     3 |
 | 13 | [huobi_markets_bot](https://github.com/defp/huobi_markets_bot)                     | 2018-01-20 | 2018-05-04 | Go         |     2 |
 | 14 | [github_oauth_phoenix_demo](https://github.com/defp/github_oauth_phoenix_demo)     | 2015-04-07 | 2018-04-12 | CSS        |     1 |
 | 15 | [redis-watch-multi-exec-demo](https://github.com/defp/redis-watch-multi-exec-demo) | 2020-06-07 | 2020-11-08 | Go         |     1 |
 | 16 | [binance_markets_bot](https://github.com/defp/binance_markets_bot)                 | 2018-05-09 | 2019-05-10 | Elixir     |     1 |
 | 17 | [OpenWrt-Build](https://github.com/defp/OpenWrt-Build)                             | 2020-04-14 | 2020-04-14 | Shell      |     0 |
-| 18 | [my-github-status](https://github.com/defp/my-github-status)                       | 2021-04-09 | 2021-08-07 | md         |     0 |
+| 18 | [my-github-status](https://github.com/defp/my-github-status)                       | 2021-04-09 | 2021-08-08 | md         |     0 |
 | 19 | [simple-ccp-tool-demo](https://github.com/defp/simple-ccp-tool-demo)               | 2020-05-25 | 2020-05-25 | Go         |     0 |
 | 20 | [elastic-7.8-learn-setup](https://github.com/defp/elastic-7.8-learn-setup)         | 2020-07-29 | 2020-07-29 | md         |     0 |
 | 21 | [defp](https://github.com/defp/defp)                                               | 2020-07-09 | 2021-02-02 | md         |     0 |
@@ -38,63 +38,63 @@
 |  4 | [beedoc](https://github.com/beego/beedoc)                                                          | 2013-10-22 | 2013-11-21 | [6](https://github.com/beego/beedoc/pulls?q=is%3Apr+author%3Adefp)                                    |
 |  5 | [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)                         | 2014-01-04 | 2014-03-31 | [5](https://github.com/adambard/learnxinyminutes-docs/pulls?q=is%3Apr+author%3Adefp)                  |
 |  6 | [elixir_guide_cn](https://github.com/elixir-lang-china/elixir_guide_cn)                            | 2014-05-30 | 2014-05-30 | [5](https://github.com/elixir-lang-china/elixir_guide_cn/pulls?q=is%3Apr+author%3Adefp)               |
-|  7 | [quick-cocos2d-x](https://github.com/chukong/quick-cocos2d-x)                                      | 2015-03-13 | 2015-08-27 | [3](https://github.com/chukong/quick-cocos2d-x/pulls?q=is%3Apr+author%3Adefp)                         |
+|  7 | [clojure-china](https://github.com/paomian/clojure-china)                                          | 2014-08-18 | 2014-08-22 | [3](https://github.com/paomian/clojure-china/pulls?q=is%3Apr+author%3Adefp)                           |
 |  8 | [Servus](https://github.com/pb82/Servus)                                                           | 2017-08-08 | 2017-09-11 | [3](https://github.com/pb82/Servus/pulls?q=is%3Apr+author%3Adefp)                                     |
-|  9 | [Learn-Algorithm](https://github.com/Learn-Algorithm/Learn-Algorithm)                              | 2014-02-23 | 2014-03-09 | [3](https://github.com/Learn-Algorithm/Learn-Algorithm/pulls?q=is%3Apr+author%3Adefp)                 |
-| 10 | [clojure-china](https://github.com/paomian/clojure-china)                                          | 2014-08-18 | 2014-08-22 | [3](https://github.com/paomian/clojure-china/pulls?q=is%3Apr+author%3Adefp)                           |
+|  9 | [quick-cocos2d-x](https://github.com/chukong/quick-cocos2d-x)                                      | 2015-03-13 | 2015-08-27 | [3](https://github.com/chukong/quick-cocos2d-x/pulls?q=is%3Apr+author%3Adefp)                         |
+| 10 | [Learn-Algorithm](https://github.com/Learn-Algorithm/Learn-Algorithm)                              | 2014-02-23 | 2014-03-09 | [3](https://github.com/Learn-Algorithm/Learn-Algorithm/pulls?q=is%3Apr+author%3Adefp)                 |
 | 11 | [rabel](https://github.com/daqing/rabel)                                                           | 2014-01-19 | 2016-01-24 | [2](https://github.com/daqing/rabel/pulls?q=is%3Apr+author%3Adefp)                                    |
 | 12 | [elasticsearch-analysis-ansj](https://github.com/NLPchina/elasticsearch-analysis-ansj)             | 2014-09-01 | 2014-09-26 | [2](https://github.com/NLPchina/elasticsearch-analysis-ansj/pulls?q=is%3Apr+author%3Adefp)            |
-| 13 | [elixir-lang.github.com](https://github.com/elixir-lang/elixir-lang.github.com)                    | 2014-05-05 | 2014-05-05 | [1](https://github.com/elixir-lang/elixir-lang.github.com/pulls?q=is%3Apr+author%3Adefp)              |
-| 14 | [douban-code.github.io](https://github.com/douban-code/douban-code.github.io)                      | 2014-02-18 | 2014-02-18 | [1](https://github.com/douban-code/douban-code.github.io/pulls?q=is%3Apr+author%3Adefp)               |
-| 15 | [go-zero](https://github.com/tal-tech/go-zero)                                                     | 2020-11-04 | 2020-11-04 | [1](https://github.com/tal-tech/go-zero/pulls?q=is%3Apr+author%3Adefp)                                |
-| 16 | [oauth2ex](https://github.com/parroty/oauth2ex)                                                    | 2015-01-11 | 2015-01-11 | [1](https://github.com/parroty/oauth2ex/pulls?q=is%3Apr+author%3Adefp)                                |
-| 17 | [ecto](https://github.com/elixir-ecto/ecto)                                                        | 2015-01-15 | 2015-01-15 | [1](https://github.com/elixir-ecto/ecto/pulls?q=is%3Apr+author%3Adefp)                                |
-| 18 | [apisix-dashboard](https://github.com/apache/apisix-dashboard)                                     | 2021-03-29 | 2021-03-29 | [1](https://github.com/apache/apisix-dashboard/pulls?q=is%3Apr+author%3Adefp)                         |
-| 19 | [rails-guides](https://github.com/ruby-china/rails-guides)                                         | 2014-07-20 | 2014-07-20 | [1](https://github.com/ruby-china/rails-guides/pulls?q=is%3Apr+author%3Adefp)                         |
-| 20 | [weigo](https://github.com/xiocode/weigo)                                                          | 2014-06-17 | 2014-06-17 | [1](https://github.com/xiocode/weigo/pulls?q=is%3Apr+author%3Adefp)                                   |
-| 21 | [node123](https://github.com/youyudehexie/node123)                                                 | 2013-11-30 | 2013-11-30 | [1](https://github.com/youyudehexie/node123/pulls?q=is%3Apr+author%3Adefp)                            |
-| 22 | [mipha](https://github.com/zven21/mipha)                                                           | 2018-09-04 | 2018-09-04 | [1](https://github.com/zven21/mipha/pulls?q=is%3Apr+author%3Adefp)                                    |
-| 23 | [Cuckoo](https://github.com/forrestchang/Cuckoo)                                                   | 2017-07-18 | 2017-07-18 | [1](https://github.com/forrestchang/Cuckoo/pulls?q=is%3Apr+author%3Adefp)                             |
-| 24 | [ecto_south](https://github.com/atuple/ecto_south)                                                 | 2017-03-17 | 2017-03-17 | [1](https://github.com/atuple/ecto_south/pulls?q=is%3Apr+author%3Adefp)                               |
+| 13 | [nebula-python](https://github.com/vesoft-inc/nebula-python)                                       | 2021-03-26 | 2021-03-26 | [1](https://github.com/vesoft-inc/nebula-python/pulls?q=is%3Apr+author%3Adefp)                        |
+| 14 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-03-29 | 2021-03-29 | [1](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3Adefp) |
+| 15 | [vue-cli-plugin-webpack-aliyun-oss](https://github.com/gp5251/vue-cli-plugin-webpack-aliyun-oss)   | 2021-02-04 | 2021-02-04 | [1](https://github.com/gp5251/vue-cli-plugin-webpack-aliyun-oss/pulls?q=is%3Apr+author%3Adefp)        |
+| 16 | [gin-boilerplate](https://github.com/Massad/gin-boilerplate)                                       | 2020-06-07 | 2020-06-07 | [1](https://github.com/Massad/gin-boilerplate/pulls?q=is%3Apr+author%3Adefp)                          |
+| 17 | [grape-on-rack](https://github.com/ruby-grape/grape-on-rack)                                       | 2014-12-13 | 2014-12-13 | [1](https://github.com/ruby-grape/grape-on-rack/pulls?q=is%3Apr+author%3Adefp)                        |
+| 18 | [weigo](https://github.com/xiocode/weigo)                                                          | 2014-06-17 | 2014-06-17 | [1](https://github.com/xiocode/weigo/pulls?q=is%3Apr+author%3Adefp)                                   |
+| 19 | [apisix-dashboard](https://github.com/apache/apisix-dashboard)                                     | 2021-03-29 | 2021-03-29 | [1](https://github.com/apache/apisix-dashboard/pulls?q=is%3Apr+author%3Adefp)                         |
+| 20 | [martini](https://github.com/go-martini/martini)                                                   | 2014-02-28 | 2014-02-28 | [1](https://github.com/go-martini/martini/pulls?q=is%3Apr+author%3Adefp)                              |
+| 21 | [mipha](https://github.com/zven21/mipha)                                                           | 2018-09-04 | 2018-09-04 | [1](https://github.com/zven21/mipha/pulls?q=is%3Apr+author%3Adefp)                                    |
+| 22 | [aliyun-go](https://github.com/liaowang11/aliyun-go)                                               | 2014-03-06 | 2014-03-06 | [1](https://github.com/liaowang11/aliyun-go/pulls?q=is%3Apr+author%3Adefp)                            |
+| 23 | [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go)                                    | 2014-03-11 | 2014-03-11 | [1](https://github.com/shadowsocks/shadowsocks-go/pulls?q=is%3Apr+author%3Adefp)                      |
+| 24 | [elasticsearch-analysis-mmseg](https://github.com/medcl/elasticsearch-analysis-mmseg)              | 2014-09-02 | 2014-09-02 | [1](https://github.com/medcl/elasticsearch-analysis-mmseg/pulls?q=is%3Apr+author%3Adefp)              |
 | 25 | [elixir-redis](https://github.com/timbuchwaldt/elixir-redis)                                       | 2014-09-18 | 2014-09-18 | [1](https://github.com/timbuchwaldt/elixir-redis/pulls?q=is%3Apr+author%3Adefp)                       |
-| 26 | [go-metrics](https://github.com/rcrowley/go-metrics)                                               | 2014-03-21 | 2014-03-21 | [1](https://github.com/rcrowley/go-metrics/pulls?q=is%3Apr+author%3Adefp)                             |
-| 27 | [oss-aliyun-go](https://github.com/PinIdea/oss-aliyun-go)                                          | 2014-03-11 | 2014-03-11 | [1](https://github.com/PinIdea/oss-aliyun-go/pulls?q=is%3Apr+author%3Adefp)                           |
-| 28 | [go-internals](https://github.com/tiancaiamao/go-internals)                                        | 2013-10-23 | 2013-10-23 | [1](https://github.com/tiancaiamao/go-internals/pulls?q=is%3Apr+author%3Adefp)                        |
-| 29 | [weixin-simulator](https://github.com/ushuz/weixin-simulator)                                      | 2017-05-16 | 2017-05-16 | [1](https://github.com/ushuz/weixin-simulator/pulls?q=is%3Apr+author%3Adefp)                          |
-| 30 | [electron-vue](https://github.com/SimulatedGREG/electron-vue)                                      | 2016-08-23 | 2016-08-23 | [1](https://github.com/SimulatedGREG/electron-vue/pulls?q=is%3Apr+author%3Adefp)                      |
-| 31 | [grape-on-rack](https://github.com/ruby-grape/grape-on-rack)                                       | 2014-12-13 | 2014-12-13 | [1](https://github.com/ruby-grape/grape-on-rack/pulls?q=is%3Apr+author%3Adefp)                        |
-| 32 | [mysql](https://github.com/go-sql-driver/mysql)                                                    | 2014-05-10 | 2014-05-10 | [1](https://github.com/go-sql-driver/mysql/pulls?q=is%3Apr+author%3Adefp)                             |
-| 33 | [graphql-rails_logger](https://github.com/jetruby/graphql-rails_logger)                            | 2019-09-21 | 2019-09-21 | [1](https://github.com/jetruby/graphql-rails_logger/pulls?q=is%3Apr+author%3Adefp)                    |
-| 34 | [apisix](https://github.com/apache/apisix)                                                         | 2021-03-29 | 2021-03-29 | [1](https://github.com/apache/apisix/pulls?q=is%3Apr+author%3Adefp)                                   |
-| 35 | [vue-cli-plugin-webpack-aliyun-oss](https://github.com/gp5251/vue-cli-plugin-webpack-aliyun-oss)   | 2021-02-04 | 2021-02-04 | [1](https://github.com/gp5251/vue-cli-plugin-webpack-aliyun-oss/pulls?q=is%3Apr+author%3Adefp)        |
-| 36 | [gin-boilerplate](https://github.com/Massad/gin-boilerplate)                                       | 2020-06-07 | 2020-06-07 | [1](https://github.com/Massad/gin-boilerplate/pulls?q=is%3Apr+author%3Adefp)                          |
-| 37 | [aliyun-ccp](https://github.com/aliyun/aliyun-ccp)                                                 | 2020-05-24 | 2020-05-24 | [1](https://github.com/aliyun/aliyun-ccp/pulls?q=is%3Apr+author%3Adefp)                               |
-| 38 | [martini](https://github.com/go-martini/martini)                                                   | 2014-02-28 | 2014-02-28 | [1](https://github.com/go-martini/martini/pulls?q=is%3Apr+author%3Adefp)                              |
-| 39 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)                                         | 2013-12-25 | 2013-12-25 | [1](https://github.com/Semantic-Org/Semantic-UI/pulls?q=is%3Apr+author%3Adefp)                        |
-| 40 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                                   | 2015-01-02 | 2015-01-02 | [1](https://github.com/lilydjwg/swapview-rosetta/pulls?q=is%3Apr+author%3Adefp)                       |
-| 41 | [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | 2021-03-29 | 2021-03-29 | [1](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls?q=is%3Apr+author%3Adefp) |
-| 42 | [nebula-python](https://github.com/vesoft-inc/nebula-python)                                       | 2021-03-26 | 2021-03-26 | [1](https://github.com/vesoft-inc/nebula-python/pulls?q=is%3Apr+author%3Adefp)                        |
-| 43 | [zero-doc](https://github.com/tal-tech/zero-doc)                                                   | 2020-12-07 | 2020-12-07 | [1](https://github.com/tal-tech/zero-doc/pulls?q=is%3Apr+author%3Adefp)                               |
-| 44 | [aliyun-go](https://github.com/liaowang11/aliyun-go)                                               | 2014-03-06 | 2014-03-06 | [1](https://github.com/liaowang11/aliyun-go/pulls?q=is%3Apr+author%3Adefp)                            |
-| 45 | [ex_doc](https://github.com/elixir-lang/ex_doc)                                                    | 2015-04-17 | 2015-04-17 | [1](https://github.com/elixir-lang/ex_doc/pulls?q=is%3Apr+author%3Adefp)                              |
-| 46 | [rails_stdout_logging](https://github.com/heroku/rails_stdout_logging)                             | 2015-02-06 | 2015-02-06 | [1](https://github.com/heroku/rails_stdout_logging/pulls?q=is%3Apr+author%3Adefp)                     |
-| 47 | [awesome-elixir](https://github.com/h4cc/awesome-elixir)                                           | 2015-01-15 | 2015-01-15 | [1](https://github.com/h4cc/awesome-elixir/pulls?q=is%3Apr+author%3Adefp)                             |
-| 48 | [elasticsearch-analysis-mmseg](https://github.com/medcl/elasticsearch-analysis-mmseg)              | 2014-09-02 | 2014-09-02 | [1](https://github.com/medcl/elasticsearch-analysis-mmseg/pulls?q=is%3Apr+author%3Adefp)              |
-| 49 | [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go)                                    | 2014-03-11 | 2014-03-11 | [1](https://github.com/shadowsocks/shadowsocks-go/pulls?q=is%3Apr+author%3Adefp)                      |
-| 50 | [Spirit](https://github.com/nitely/Spirit)                                                         | 2014-06-05 | 2014-06-05 | [1](https://github.com/nitely/Spirit/pulls?q=is%3Apr+author%3Adefp)                                   |
+| 26 | [ecto_south](https://github.com/atuple/ecto_south)                                                 | 2017-03-17 | 2017-03-17 | [1](https://github.com/atuple/ecto_south/pulls?q=is%3Apr+author%3Adefp)                               |
+| 27 | [node123](https://github.com/youyudehexie/node123)                                                 | 2013-11-30 | 2013-11-30 | [1](https://github.com/youyudehexie/node123/pulls?q=is%3Apr+author%3Adefp)                            |
+| 28 | [aliyun-ccp](https://github.com/aliyun/aliyun-ccp)                                                 | 2020-05-24 | 2020-05-24 | [1](https://github.com/aliyun/aliyun-ccp/pulls?q=is%3Apr+author%3Adefp)                               |
+| 29 | [go-metrics](https://github.com/rcrowley/go-metrics)                                               | 2014-03-21 | 2014-03-21 | [1](https://github.com/rcrowley/go-metrics/pulls?q=is%3Apr+author%3Adefp)                             |
+| 30 | [Spirit](https://github.com/nitely/Spirit)                                                         | 2014-06-05 | 2014-06-05 | [1](https://github.com/nitely/Spirit/pulls?q=is%3Apr+author%3Adefp)                                   |
+| 31 | [elixir-lang.github.com](https://github.com/elixir-lang/elixir-lang.github.com)                    | 2014-05-05 | 2014-05-05 | [1](https://github.com/elixir-lang/elixir-lang.github.com/pulls?q=is%3Apr+author%3Adefp)              |
+| 32 | [graphql-rails_logger](https://github.com/jetruby/graphql-rails_logger)                            | 2019-09-21 | 2019-09-21 | [1](https://github.com/jetruby/graphql-rails_logger/pulls?q=is%3Apr+author%3Adefp)                    |
+| 33 | [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)                                         | 2013-12-25 | 2013-12-25 | [1](https://github.com/Semantic-Org/Semantic-UI/pulls?q=is%3Apr+author%3Adefp)                        |
+| 34 | [go-internals](https://github.com/tiancaiamao/go-internals)                                        | 2013-10-23 | 2013-10-23 | [1](https://github.com/tiancaiamao/go-internals/pulls?q=is%3Apr+author%3Adefp)                        |
+| 35 | [Cuckoo](https://github.com/forrestchang/Cuckoo)                                                   | 2017-07-18 | 2017-07-18 | [1](https://github.com/forrestchang/Cuckoo/pulls?q=is%3Apr+author%3Adefp)                             |
+| 36 | [rails_stdout_logging](https://github.com/heroku/rails_stdout_logging)                             | 2015-02-06 | 2015-02-06 | [1](https://github.com/heroku/rails_stdout_logging/pulls?q=is%3Apr+author%3Adefp)                     |
+| 37 | [awesome-elixir](https://github.com/h4cc/awesome-elixir)                                           | 2015-01-15 | 2015-01-15 | [1](https://github.com/h4cc/awesome-elixir/pulls?q=is%3Apr+author%3Adefp)                             |
+| 38 | [oauth2ex](https://github.com/parroty/oauth2ex)                                                    | 2015-01-11 | 2015-01-11 | [1](https://github.com/parroty/oauth2ex/pulls?q=is%3Apr+author%3Adefp)                                |
+| 39 | [oss-aliyun-go](https://github.com/PinIdea/oss-aliyun-go)                                          | 2014-03-11 | 2014-03-11 | [1](https://github.com/PinIdea/oss-aliyun-go/pulls?q=is%3Apr+author%3Adefp)                           |
+| 40 | [ex_doc](https://github.com/elixir-lang/ex_doc)                                                    | 2015-04-17 | 2015-04-17 | [1](https://github.com/elixir-lang/ex_doc/pulls?q=is%3Apr+author%3Adefp)                              |
+| 41 | [ecto](https://github.com/elixir-ecto/ecto)                                                        | 2015-01-15 | 2015-01-15 | [1](https://github.com/elixir-ecto/ecto/pulls?q=is%3Apr+author%3Adefp)                                |
+| 42 | [douban-code.github.io](https://github.com/douban-code/douban-code.github.io)                      | 2014-02-18 | 2014-02-18 | [1](https://github.com/douban-code/douban-code.github.io/pulls?q=is%3Apr+author%3Adefp)               |
+| 43 | [weixin-simulator](https://github.com/ushuz/weixin-simulator)                                      | 2017-05-16 | 2017-05-16 | [1](https://github.com/ushuz/weixin-simulator/pulls?q=is%3Apr+author%3Adefp)                          |
+| 44 | [apisix](https://github.com/apache/apisix)                                                         | 2021-03-29 | 2021-03-29 | [1](https://github.com/apache/apisix/pulls?q=is%3Apr+author%3Adefp)                                   |
+| 45 | [go-zero](https://github.com/tal-tech/go-zero)                                                     | 2020-11-04 | 2020-11-04 | [1](https://github.com/tal-tech/go-zero/pulls?q=is%3Apr+author%3Adefp)                                |
+| 46 | [electron-vue](https://github.com/SimulatedGREG/electron-vue)                                      | 2016-08-23 | 2016-08-23 | [1](https://github.com/SimulatedGREG/electron-vue/pulls?q=is%3Apr+author%3Adefp)                      |
+| 47 | [zero-doc](https://github.com/tal-tech/zero-doc)                                                   | 2020-12-07 | 2020-12-07 | [1](https://github.com/tal-tech/zero-doc/pulls?q=is%3Apr+author%3Adefp)                               |
+| 48 | [swapview-rosetta](https://github.com/lilydjwg/swapview-rosetta)                                   | 2015-01-02 | 2015-01-02 | [1](https://github.com/lilydjwg/swapview-rosetta/pulls?q=is%3Apr+author%3Adefp)                       |
+| 49 | [rails-guides](https://github.com/ruby-china/rails-guides)                                         | 2014-07-20 | 2014-07-20 | [1](https://github.com/ruby-china/rails-guides/pulls?q=is%3Apr+author%3Adefp)                         |
+| 50 | [mysql](https://github.com/go-sql-driver/mysql)                                                    | 2014-05-10 | 2014-05-10 | [1](https://github.com/go-sql-driver/mysql/pulls?q=is%3Apr+author%3Adefp)                             |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [rebol](https://github.com/rebol/rebol)                                                       | 2017-07-23 | C           | 2021-07-25   |
-|  2 | [vscode-go](https://github.com/golang/vscode-go)                                              | 2020-07-21 | TypeScript  | 2021-08-07   |
-|  3 | [forem](https://github.com/forem/forem)                                                       | 2020-09-16 | Ruby        | 2021-08-07   |
-|  4 | [myxql](https://github.com/elixir-ecto/myxql)                                                 | 2021-07-08 | Elixir      | 2021-08-06   |
-|  5 | [heroku-buildpack-phoenix-static](https://github.com/gjaldon/heroku-buildpack-phoenix-static) | 2018-08-31 | Shell       | 2021-07-14   |
-|  6 | [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)                          | 2017-09-01 | Objective-C | 2021-08-07   |
-|  7 | [mruby](https://github.com/mruby/mruby)                                                       | 2012-04-19 | C           | 2021-08-07   |
-|  8 | [vagrant-dns](https://github.com/BerlinVagrant/vagrant-dns)                                   | 2013-03-10 | Ruby        | 2021-08-05   |
-|  9 | [elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)                  | 2014-12-10 | Elixir      | 2021-08-05   |
-| 10 | [ex_machina](https://github.com/thoughtbot/ex_machina)                                        | 2016-07-12 | Elixir      | 2021-08-07   |
+| ID |                                            REPO                                            | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [bh](https://github.com/Fullscreen/bh)                                                     | 2014-09-13 | Ruby     | 2021-07-13   |
+|  2 | [remote-working](https://github.com/greatghoul/remote-working)                             | 2016-07-05 | Ruby     | 2021-08-08   |
+|  3 | [lwan](https://github.com/lpereira/lwan)                                                   | 2014-10-13 | C        | 2021-08-08   |
+|  4 | [pidcat](https://github.com/JakeWharton/pidcat)                                            | 2017-12-12 | Python   | 2021-08-08   |
+|  5 | [faraday](https://github.com/lostisland/faraday)                                           | 2011-02-11 | Ruby     | 2021-08-08   |
+|  6 | [StaffjoyV2](https://github.com/LandRover/StaffjoyV2)                                      | 2020-07-29 | Go       | 2021-07-25   |
+|  7 | [gitlist](https://github.com/klaussilveira/gitlist)                                        | 2014-09-30 | CSS      | 2021-08-03   |
+|  8 | [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)       | 2017-02-23 | Shell    | 2021-08-08   |
+|  9 | [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist) | 2017-04-21 | Ruby     | 2021-08-07   |
+| 10 | [Venice](https://github.com/Zewo/Venice)                                                   | 2015-09-27 | Swift    | 2021-07-31   |
 
 <!--END_SECTION:my_github-->
